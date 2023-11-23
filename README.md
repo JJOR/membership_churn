@@ -1,2 +1,2 @@
 # membership_churn
-Insurance membership churn analysis
+Insurance membership churn analysis and survival modeling
